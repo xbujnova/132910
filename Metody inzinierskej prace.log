@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.26)  3 OCT 2024 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.26)  3 OCT 2024 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,29 +234,30 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count277
 \l__pdf_internal_box=\box51
 )
-No file "Metody inzinierskej prace".aux.
+(./Metody inzinierskej prace.aux)
 \openout1 = `"Metody inzinierskej prace.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count278
@@ -279,68 +280,49 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 32.
+
+(./Metody inzinierskej prace.out) (./Metody inzinierskej prace.out)
 \@outlinefile=\write3
 \openout3 = `"Metody inzinierskej prace.out"'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
+(Font)              <17.28> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 35.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-33.
+35.
 
 (/usr/local/texlive/2024/texmf-dist/tex/cslatex/base/il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
-
-
-LaTeX Warning: Reference `nejaka' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Reference `dolezita' on page 1 undefined on input line 46.
-
-
-LaTeX Warning: Reference `dolezitejsia' on page 1 undefined on input line 46.
-
-
-LaTeX Warning: Reference `zaver' on page 1 undefined on input line 47.
-
-
-LaTeX Warning: Reference `f:rozhod' on page 1 undefined on input line 53.
-
-
-LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 67.
-
-
-LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 67.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
-
-LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 69.
-
-
-LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 69
-.
-
-
-LaTeX Warning: Citation `Czarnecki:Progress' on page 1 undefined on input line 
-69.
-
-
-LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 69.
-
-[1
+(Font)              <5> on input line 35.
+ [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 64.
+
+
+LaTeX Warning: Citation `Coplien:MPD' on page 2 undefined on input line 66.
+
+
+LaTeX Warning: Citation `Czarnecki:Staged' on page 2 undefined on input line 66
+.
+
+
+LaTeX Warning: Citation `Czarnecki:Progress' on page 2 undefined on input line 
+66.
+
+
+LaTeX Warning: Citation `PLP-Framework' on page 2 undefined on input line 66.
+
 No file "Metody inzinierskej prace".bbl.
 [2] (./Metody inzinierskej prace.aux)
  ***********
@@ -354,24 +336,18 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `"Metody inzinierskej prace".out' has chan
-ged.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Metody inzinierskej prace".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  DCA731DA2FC82593BB099E907EB500F3;982.
+Package rerunfilecheck Info: File `"Metody inzinierskej prace".out' has not cha
+nged.
+(rerunfilecheck)             Checksum: DCA731DA2FC82593BB099E907EB500F3;982.
  ) 
 Here is how much of TeX's memory you used:
- 10066 strings out of 474116
- 158217 string characters out of 5743682
- 1936187 words of memory out of 5000000
- 32297 multiletter control sequences out of 15000+600000
+ 10083 strings out of 474116
+ 158581 string characters out of 5743682
+ 1938187 words of memory out of 5000000
+ 32308 multiletter control sequences out of 15000+600000
  571407 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,361b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,512b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cs/csbx10.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/cs/csbx12.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/public/cs/csbx9.pfb></usr/local/texlive/2024/texm
@@ -388,10 +364,10 @@ t9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600
 .pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.p
 fb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 >
-Output written on "Metody inzinierskej prace.pdf" (2 pages, 106750 bytes).
+Output written on "Metody inzinierskej prace.pdf" (2 pages, 114632 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 151 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  18 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
